@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_API_KEY,
-    authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-    projectId: process.env.REACT_APP_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-    appId: process.env.REACT_APP_APP_ID,
+    apiKey: "AIzaSyDt7WYREUh_ZY2i92au3qOpmhOy_O3wYaM",
+    authDomain: "doctors-portal-3a1e7.firebaseapp.com",
+    projectId: "doctors-portal-3a1e7",
+    storageBucket: "doctors-portal-3a1e7.appspot.com",
+    messagingSenderId: "953164281341",
+    appId: "1:953164281341:web:2efc6fcc9174fa95c69594"
 };
 export default firebaseConfig;
